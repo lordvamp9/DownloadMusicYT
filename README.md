@@ -11,7 +11,7 @@ Una aplicación de escritorio moderna y estética para buscar y descargar músic
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
 *   **Descargas Rápidas (CBR MP3):** Descarga audios en alta fidelidad de 192kbps, garantizando tiempos y metadatos exactos.
 *   **Reproductor Nativo DirectShow:** Motor de audio propio ultra-preciso desarrollado en C++ utilizando la API nativa de Windows (DirectShow) para latencia cero.
@@ -21,7 +21,7 @@ Una aplicación de escritorio moderna y estética para buscar y descargar músic
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 *   **Frontend:** Qt 6 (QML / QtQuick)
 *   **Backend:** C++ 17
@@ -31,7 +31,7 @@ Una aplicación de escritorio moderna y estética para buscar y descargar músic
 
 ---
 
-## 🚀 Instalación y Uso (Release)
+##  Instalación y Uso (Release)
 
 1.  Descarga el archivo **`YouTubeMusicDownloader_Release.zip`** desde la sección de [Releases](../../releases).
 2.  Descomprime la carpeta en tu PC.
@@ -41,7 +41,7 @@ Una aplicación de escritorio moderna y estética para buscar y descargar músic
 
 ---
 
-## ⚖️ Licencia y Créditos de Dependencias
+##  Licencia y Créditos de Dependencias
 
 Este proyecto se distribuye bajo la **Licencia MIT**. Todos los derechos de copyright están reservados a nombre de [vamp9](https://github.com/lordvamp9).
 
