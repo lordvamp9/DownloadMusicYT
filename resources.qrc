@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>ui/main.qml</file>
+    <file>ui/components/GlassEffect.qml</file>
+    <file>ui/views/SearchView.qml</file>
+    <file>ui/views/DownloadsView.qml</file>
+    <file>ui/views/LibraryView.qml</file>
+    <file>ui/views/SettingsView.qml</file>
+    <file>ui/icons/search.svg</file>
+    <file>ui/icons/download.svg</file>
+    <file>ui/icons/library.svg</file>
+    <file>ui/icons/settings.svg</file>
+    <file>ui/icons/play.svg</file>
+    <file>ui/icons/pause.svg</file>
+    <file>ui/icons/next.svg</file>
+    <file>ui/icons/prev.svg</file>
+    <file>ui/icons/volume.svg</file>
+    <file>ui/icons/download.ico</file>
+</qresource>
+</RCC>
